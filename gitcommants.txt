@@ -2,6 +2,8 @@ git init
 
 git status
 
+git add .
+
 git commit -m "message"		=create commit
 
 git log     =display commits
